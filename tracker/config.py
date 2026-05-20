@@ -1,7 +1,7 @@
 import os
 
 # API configuration
-BACKEND_URL = "http://localhost:5005/api/tracking/ping"
+BACKEND_URL = "https://worktrack-w8jx.onrender.com/api/tracking/ping"
 PING_INTERVAL = 5  # seconds
 IDLE_THRESHOLD = 300  # seconds (5 minutes)
 
